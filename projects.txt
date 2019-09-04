@@ -9,3 +9,7 @@ tensorflow (Sahil)
 
 IDEAS:
 github -> awesome-for-beginners (Jonathan)
+
+NOTE:
+It looks like the institute network is still doen (16:42), which means you can't email or signup for our slack channel :(
+Patience, young padawans :)
