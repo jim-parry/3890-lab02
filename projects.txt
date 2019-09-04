@@ -1,2 +1,11 @@
 Project (student)
 
+ansible (Tyler)
+flask (Brendon)
+scrapy (Tyler)
+stardu valley (Eric)
+tensorflow (Sahil)
+
+
+IDEAS:
+github -> awesome-for-beginners (Jonathan)
