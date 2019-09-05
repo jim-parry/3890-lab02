@@ -3,10 +3,12 @@ Project (student)
 ansible (Tyler)
 flask (Brendon)
 gns3 (Shravan)
+pelican (Sahil)
 scrapy (Tyler)
 stardu valley (Eric)
 storybook.js (Tyler)
 tensorflow (Sahil)
+universe (Sahil)
 
 
 IDEAS:
