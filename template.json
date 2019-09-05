@@ -17,3 +17,11 @@
     "license": "",
     "since": ""
 }
+
+/*----------------------- explanation, not part of the JSON ---------------
+techUsed: the programming language used in this project
+siteURL: URL for the project itself
+orgURL: URL for the parent or umbrella organization
+numMainContributors: how many active & "significant" contributors does the project have
+whatzit: what is the project about?
+*/
