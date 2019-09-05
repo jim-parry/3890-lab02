@@ -2,6 +2,7 @@ Project (student)
 
 ansible (Tyler)
 flask (Brendon)
+gns3 (Shravan)
 scrapy (Tyler)
 stardu valley (Eric)
 tensorflow (Sahil)
