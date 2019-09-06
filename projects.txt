@@ -1,11 +1,14 @@
 Project (student)
 
 ansible (Tyler)
+chart.xkcd (Runze)
+dapy (Runze)
 docker (Sub) ... implied
 flask (Brendon)
 gns3 (Shravan)
 gns3-gui (Sub) ... implied
 mozilla-addons-server (Sub) ... implied
+overcommit (Runze)
 pelican (Sahil)
 pytest (Brendon) ... implied
 scrapy (Tyler)
