@@ -1,14 +1,19 @@
 Project (student)
 
 ansible (Tyler)
+docker (Sub) ... implied
 flask (Brendon)
 gns3 (Shravan)
+gns3-gui (Sub) ... implied
+mozilla-addons-server (Sub) ... implied
 pelican (Sahil)
+pytest (Brendon) ... implied
 scrapy (Tyler)
 stardu valley (Eric)
 storybook.js (Tyler)
 tensorflow (Sahil)
 universe (Sahil)
+vscode (Brendon) ... implied
 
 
 IDEAS:
