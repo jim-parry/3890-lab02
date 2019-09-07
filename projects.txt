@@ -1,6 +1,7 @@
 Project (student)
 
 ansible (Tyler)
+atom (Eric)
 brckets (Alexandre)
 chart.xkcd (Runze)
 dapy (Runze)
