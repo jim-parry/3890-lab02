@@ -4,10 +4,13 @@ ansible (Tyler)
 chart.xkcd (Runze)
 dapy (Runze)
 docker (Sub) ... implied
+ds3cheatsheet (andy) ... implied
 flask (Brendon)
 gns3 (Shravan)
 gns3-gui (Sub) ... implied
+moment (andy) ... implied
 mozilla-addons-server (Sub) ... implied
+nuclear (andy) ... implied
 openai (Sahil) ... implied
 overcommit (Runze)
 pelican (Sahil)
