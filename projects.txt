@@ -1,5 +1,7 @@
 Project (student)
 
+JARVIS-on-Messenger (Eric)
+zulip (Eric)
 ansible (Tyler)
 chart.xkcd (Runze)
 dapy (Runze)
