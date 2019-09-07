@@ -8,6 +8,7 @@ flask (Brendon)
 gns3 (Shravan)
 gns3-gui (Sub) ... implied
 mozilla-addons-server (Sub) ... implied
+openai (Sahil) ... implied
 overcommit (Runze)
 pelican (Sahil)
 pytest (Brendon) ... implied
@@ -22,5 +23,3 @@ vscode (Brendon) ... implied
 IDEAS:
 github -> awesome-for-beginners (Jonathan)
 
-NOTE:
-It looks like the institute network is back up ... looking forward to your FOSS projects to profile.
