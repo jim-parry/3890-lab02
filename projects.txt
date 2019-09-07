@@ -4,7 +4,6 @@ ansible (Tyler)
 atom (Eric)
 brckets (Alexandre)
 chart.xkcd (Runze)
-dapy (Runze)
 dash (thomas)
 docker (Sub) ... implied
 ds3cheatsheet (andy) ... implied
@@ -12,15 +11,16 @@ flask (Brendon)
 gimp (Alexandre)
 gns3 (Shravan)
 gns3-gui (Sub) ... implied
+gocui (Runze)
 jarvis on messenger (Eric)
 moby (Victor)
 moment (andy) ... implied
 mozilla-addons-server (Sub) ... implied
 nuclear (andy) ... implied
 openai (Sahil) ... implied
-overcommit (Runze)
 pelican (Sahil)
 pytest (Brendon) ... implied
+scope (Runze)
 scrapy (Tyler)
 stardew valley (Eric)
 storybook.js (Tyler)
