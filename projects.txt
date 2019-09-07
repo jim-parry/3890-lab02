@@ -3,6 +3,7 @@ Project (student)
 ansible (Tyler)
 chart.xkcd (Runze)
 dapy (Runze)
+dash (thomas)
 docker (Sub) ... implied
 ds3cheatsheet (andy) ... implied
 flask (Brendon)
@@ -21,6 +22,8 @@ storybook.js (Tyler)
 tensorflow (Sahil)
 universe (Sahil)
 vscode (Brendon) ... implied
+wagtail (thomas)
+zulip (thomas)
 
 
 IDEAS:
