@@ -9,6 +9,7 @@ dash (thomas)
 docker (Sub) ... implied
 ds3cheatsheet (andy) ... implied
 ds4windows (Cathy)
+ember-data (Matthew)
 flask (Brendon)
 gimp (Alexandre)
 gns3 (Shravan)
@@ -20,8 +21,10 @@ moby (Victor)
 moment (andy) ... implied
 mozilla-addons-server (Sub) ... implied
 mozilla forefox (Cathy)
+next.js (Matthew)
 nuclear (andy) ... implied
 openai (Sahil) ... implied
+pandas (Matthew)
 pelican (Sahil)
 pytest (Brendon) ... impliedsbzprofileswitcher (Cathy)
 scope (Runze)
