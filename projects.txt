@@ -12,9 +12,10 @@ ds4windows (Cathy)
 ember-data (Matthew)
 flask (Brendon)
 gimp (Alexandre)
+gitpoint (Liam)
 gns3 (Shravan)
 gns3-gui (Sub) ... implied
-gocui (Runze)
+gocui (Runze)'ionic (Liam)
 jarvis on messenger (Eric)
 mage (Bowen) ... ijmplied
 moby (Victor)
@@ -26,7 +27,9 @@ nuclear (andy) ... implied
 openai (Sahil) ... implied
 pandas (Matthew)
 pelican (Sahil)
-pytest (Brendon) ... impliedsbzprofileswitcher (Cathy)
+pytest (Brendon) ... implied
+react-native (Liam)
+sbzprofileswitcher (Cathy)
 scope (Runze)
 scrapy (Tyler)
 stardew valley (Eric)
