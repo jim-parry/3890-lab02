@@ -1,5 +1,6 @@
 Project (student)
 
+ancientbeast (Bowen) ... implied
 ansible (Tyler)
 atom (Eric)
 brckets (Alexandre)
@@ -7,25 +8,29 @@ chart.xkcd (Runze)
 dash (thomas)
 docker (Sub) ... implied
 ds3cheatsheet (andy) ... implied
+ds4windows (Cathy)
 flask (Brendon)
 gimp (Alexandre)
 gns3 (Shravan)
 gns3-gui (Sub) ... implied
 gocui (Runze)
 jarvis on messenger (Eric)
+mage (Bowen) ... ijmplied
 moby (Victor)
 moment (andy) ... implied
 mozilla-addons-server (Sub) ... implied
+mozilla forefox (Cathy)
 nuclear (andy) ... implied
 openai (Sahil) ... implied
 pelican (Sahil)
-pytest (Brendon) ... implied
+pytest (Brendon) ... impliedsbzprofileswitcher (Cathy)
 scope (Runze)
 scrapy (Tyler)
 stardew valley (Eric)
 storybook.js (Tyler)
 tachiyomi (Victor)
 tensorflow (Sahil)
+travelmate (Bowen) ... implied
 universe (Sahil)
 vscode (Brendon) ... implied
 wagtail (thomas)
