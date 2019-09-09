@@ -25,7 +25,12 @@ gns3-gui (Sub) ... implied
 go (Nikko ) ... implied
 gocui (Runze)'ionic (Liam)
 jarvis on messenger (Eric)
+lab1hard (Ahmad) ... really?
+lab1medium (Ahmad) ... really?
+lab1small (Ahmad) ... really?
+largeTemplate (Tyler) ... really?
 mage (Bowen) ... ijmplied
+mediumtemplate (Tyler) ... really?
 moby (Victor)
 moment (andy) ... implied
 moment.js (Jonathan) ... ALREADY USED?
@@ -45,6 +50,7 @@ reactiveUI (Evan) ... implied
 sbzprofileswitcher (Cathy)
 scope (Runze)
 scrapy (Tyler)
+smallTemplate (Tyler) ... really?
 stardew valley (Eric)
 storybook.js (Tyler)
 tachiyomi (Victor)
