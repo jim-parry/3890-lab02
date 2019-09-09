@@ -10,6 +10,7 @@ brckets (Alexandre)
 chart.xkcd (Runze)
 codeigniter.json (Evan) ... implied
 cookiecutter.json (Evan) ... implied
+countries (Brandon) ... implied
 dash (thomas)
 docker (Sub) ... implied
 ds3cheatsheet (andy) ... implied
@@ -37,6 +38,7 @@ p5.js (raphael) ... sorta implied
 pandas (Matthew)
 pdf.js (Jonathan)
 pelican (Sahil)
+pure (Brandon) ... implied
 pytest (Brendon) ... implied
 react-native (Liam)
 reactiveUI (Evan) ... implied
@@ -51,6 +53,7 @@ travelmate (Bowen) ... implied
 universe (Sahil)
 vscode (Brendon) ... implied
 wagtail (thomas)
+yetiforce (Brandon) ... implied
 yuzu (Nikko ) ... implied
 zen (Alexandre)
 zulip (thomas)
