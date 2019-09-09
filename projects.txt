@@ -5,8 +5,11 @@ angular (raphael) ... sorta implied
 ansible (Tyler)
 astropy (raphael) ... sorta implied
 atom (Eric)
+babel (Jonathan) ... implied
 brckets (Alexandre)
 chart.xkcd (Runze)
+codeigniter.json (Evan) ... implied
+cookiecutter.json (Evan) ... implied
 dash (thomas)
 docker (Sub) ... implied
 ds3cheatsheet (andy) ... implied
@@ -24,6 +27,7 @@ jarvis on messenger (Eric)
 mage (Bowen) ... ijmplied
 moby (Victor)
 moment (andy) ... implied
+moment.js (Jonathan) ... ALREADY USED?
 mozilla-addons-server (Sub) ... implied
 mozilla forefox (Cathy)
 next.js (Matthew)
@@ -31,9 +35,11 @@ nuclear (andy) ... implied
 openai (Sahil) ... implied
 p5.js (raphael) ... sorta implied
 pandas (Matthew)
+pdf.js (Jonathan)
 pelican (Sahil)
 pytest (Brendon) ... implied
 react-native (Liam)
+reactiveUI (Evan) ... implied
 sbzprofileswitcher (Cathy)
 scope (Runze)
 scrapy (Tyler)
